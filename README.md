@@ -1,5 +1,5 @@
 # Notas:
-Este es mi primer programa en Node
+Este es mi primer programa en Node y aquí estan sus opciones
 ```
 Options:
       --help     Show help                                             [boolean]
